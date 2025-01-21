@@ -1,0 +1,9 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+obj/
+
+# Ignore build artifacts
+main_app
+test_main
